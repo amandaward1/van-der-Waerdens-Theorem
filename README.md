@@ -1,1 +1,1 @@
-# van-der-Waerdens-Theorem
+# van der Waerden's Theorem
